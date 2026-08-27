@@ -11,5 +11,4 @@ fix (deriving the radius from each plot's own size instead).
 
 ## Web-chat links (understanding the problem)
 
-- (add any ChatGPT/Claude.ai share links here, if you used a separate chat to get oriented
-  before the build session)
+- (https://claude.ai/share/feda2803-1173-4204-94a2-c7041c3468e2)
